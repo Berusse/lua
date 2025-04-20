@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Berusse/gamefarm/refs/heads/main/lua", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Berusse/farmgame/refs/heads/main/lua', true))()
